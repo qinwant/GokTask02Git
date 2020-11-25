@@ -23,6 +23,7 @@ public class Demo {
         log.warn("warn");
         log.info("info");
         log.error("error");
+        log.debug("kingwan change");
         return "Hello Spring Boot";
     }
 }
