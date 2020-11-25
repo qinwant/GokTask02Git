@@ -24,6 +24,6 @@ public class Demo {
         log.info("info");
         log.error("error");
         log.debug("kingwan change");
-        return "Hello Spring Boot";
+        return "Hello Spring Boot1";
     }
 }
