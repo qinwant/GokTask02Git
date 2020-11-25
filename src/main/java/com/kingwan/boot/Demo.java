@@ -23,6 +23,6 @@ public class Demo {
         log.warn("warn");
         log.info("info");
         log.error("error");
-        return "Hello Spring Boot";
+        return "Hello Spring Boot2";
     }
 }
